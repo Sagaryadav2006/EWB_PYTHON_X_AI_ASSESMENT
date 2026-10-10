@@ -1,8 +1,6 @@
 # 1. Project Title
 Student Performance Analytics System
 
-**Author:** Sagar Santosh Yadav
-
 # 2. Objective
 The objective of this project is to build a Python-based Student Performance Analytics System that reads student data, processes and analyzes it using NumPy and Pandas, and produces meaningful academic results without relying on advanced machine learning. It solves the problem of manually calculating student metrics by automating the analysis of marks, grades, and class-wide performance trends.
 
@@ -45,6 +43,3 @@ The project successfully achieved its goal of structuring and analyzing raw stud
 # 9. Challenges & Learning
 * **Challenges:** Integrating NumPy mathematical operations seamlessly within Pandas DataFrame columns, and ensuring the Pass/Fail logic correctly iterated over only the subject columns without analyzing the ID or Attendance columns.
 * **Learning:** Gained hands-on experience structuring a data analysis pipeline, using the Pandas `.apply()` method for row-wise operations, and organizing code into reusable functions for better readability. 
-
-# 10. GitHub Repository
-**Repository Link:** https://github.com/Sagaryadav2006/EWB_PYTHON_X_AI_ASSESMENT
